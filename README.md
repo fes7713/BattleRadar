@@ -23,3 +23,12 @@ You need to have IntelliJ from JetBrain installed on your computer, Windows 10 o
 4. Select unzipped project folder to open the project.
 
 Project is managed by Apache Maven so Maven should handle the all downloads of libraries like libGDX and vecmath. However, you may need Java SDK 17 installed in order to run this project.
+<br>
+<br>
+To change Java SDK version,
+1. Go to File
+2. Project structure
+3. Project Settings
+4. Project
+5. Select installed Java SDK 17 in your PC
+- if Java SDK 17 is not installed in your computer, you can do so by selecting add SDK in dropdown menu of SDK selection box.
