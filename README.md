@@ -8,7 +8,18 @@ This is top-down view strategy game where player act as commander and controls t
 ## Environment
 - Windows 10
 - IDE -> IntelliJ 2021.3.1
+- Java SDK 17
 - Maven
 - Libraries 
 - - vecmath 1.5.2(https://mvnrepository.com/artifact/javax.vecmath/vecmath/1.5.2)
 - - libGDX 1.11.0([https://mvnrepository.com/artifact/javax.vecmath/vecmath/1.5.2](https://mvnrepository.com/artifact/com.badlogicgames.gdx/gdx/1.11.0))
+
+## How to compile
+You need to have IntelliJ from JetBrain installed on your computer, Windows 10 or MacOS (not guranteed) 
+<br>
+1. Download this project as ZIP file
+2. Unzip file.
+3. Go to IntelliJ -> File in the menu -> Open
+4. Select unzipped project folder to open the project.
+
+Project is managed by Apache Maven so Maven should handle the all downloads of libraries like libGDX and vecmath. However, you may need Java SDK 17 installed in order to run this project.
