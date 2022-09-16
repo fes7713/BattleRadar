@@ -37,3 +37,4 @@ To change Java SDK version,
 [CIS 3296 Battle Radar.pptx](https://github.com/fes7713/BattleRadar/files/9580053/CIS.3296.Battle.Radar.pptx)
 
 
+[CIS 3296 Battle Radar.pdf](https://github.com/fes7713/BattleRadar/files/9580062/CIS.3296.Battle.Radar.pdf)
