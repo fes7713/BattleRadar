@@ -34,7 +34,5 @@ To change Java SDK version,
 - if Java SDK 17 is not installed in your computer, you can do so by selecting add SDK in dropdown menu of SDK selection box.
 
 ## Project Slides
-[CIS 3296 Battle Radar.pptx](https://github.com/fes7713/BattleRadar/files/9580053/CIS.3296.Battle.Radar.pptx)
-
 
 [CIS 3296 Battle Radar.pdf](https://github.com/fes7713/BattleRadar/files/9580062/CIS.3296.Battle.Radar.pdf)
