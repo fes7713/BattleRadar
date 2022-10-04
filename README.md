@@ -4,7 +4,8 @@ This is top-down view strategy game where player act as commander and controls t
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/71058334/190539751-d4ff6011-080b-4f5d-8f86-ff36c69ba8c7.png)
-![image](https://user-images.githubusercontent.com/71058334/193934542-2873ca57-4f84-4a27-b2de-38fa59dd2e2a.png)
+![image](https://user-images.githubusercontent.com/71058334/193934919-98ed13a5-e6f3-4ecd-852b-ae975ef6bc22.png)
+
 
 
 ## Environment
